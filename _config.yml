@@ -18,7 +18,7 @@ tagline: Ο πρώτος Ελληνικός Server στο Squad
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ο πρώτος Ελληνικός server για Squad
-baseurl: "joinsquad-gr" # the subpath of your site, e.g. /blog
+baseurl: "/joinsquad-gr" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 static: "/static"
 twitter_username: jekyllrb
