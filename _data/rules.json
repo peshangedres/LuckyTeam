@@ -1,5 +1,6 @@
 [
   {
+    "img": "4.jpg",
     "en": {
       "text": "Squad Leaders must have working microphones. Members must listen to their SLs",
       "title": "Listen to your Squad Leader"
@@ -7,6 +8,28 @@
     "gr": {
       "text": "Οι Ομαδάρχες πρέπει να χρησιμοποιούν μικρόφωνο. Τα μέλη της ομάδας πρέπει να εκτελούν τις εντολές του Ομαδάρχη",
       "title": "Δώστε προσοχή στον Ομαδάρχη"
+    }
+  },
+  {
+    "img": "2.jpg",
+    "en": {
+      "text": "Squads must have 7+ members to be locked, unless they are Vehicle or Weapon crews",
+      "title": "Locked Squads of 7+ members only"
+    },
+    "gr": {
+      "text": "Χρειάζονται 7+ άτομα για να κλειδώσει η ομάδα, αλλιώς απαγορεύεται. Ομάδες ειδικών πληρωμάτων μπορούν να είναι κλειδωμένες",
+      "title": "Κλειδωμένες ομάδες απο 7 άτομα και πάνω"
+    }
+  },
+  {
+    "img": "3.png",
+    "en": {
+      "text": "Server language is English and Greek. You can have a different language squad only if you put it in the squad name",
+      "title": "Server Language"
+    },
+    "gr": {
+      "text": "Στο Command Channel Μόνο Ελληνικά και Αγγλικά.",
+      "title": "Γλώσσα"
     }
   }
 ]

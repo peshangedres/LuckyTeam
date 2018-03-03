@@ -1,6 +1,6 @@
 [
   {
-    "fa": "fa-user",
+    "fa": "fas fa-user",
     "en": {
       "title": "Active Admins",
       "text": "Our Admins are active and committed to upholding our Server Rules"
@@ -11,7 +11,7 @@
     }
   },
   {
-    "fa": "fa-clock",
+    "fa": "far fa-clock",
     "en": {
       "title": "European Timezone",
       "text": "Our Server and most of our members are based in Europe"
@@ -22,14 +22,14 @@
     }
   },
   {
-    "fa": "fa-clock",
+    "fa": "fas fa-globe",
     "en": {
-      "title": "European Timezone",
-      "text": "Our Server and most of our members are based in Europe"
+      "title": "We Speak Greek",
+      "text": "From Gamers, for Gamers"
     },
     "gr": {
-      "title": "Ευρωπαικές Ώρες",
-      "text": "Τα Μέλη και οι Διαχειριστές μας βρίσκονται στην Ευρώπη"
+      "title": "Μιλάμε Ελληνικά",
+      "text": "Απο Έλληνες Gamers για Έλληνες Gamers"
     }
   }
 ]
