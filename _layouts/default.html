@@ -6,9 +6,31 @@
 <body>
 
 <!-- Navigation -->
-<nav class="navbar navbar-dark bg-dark static-top">
+<nav class="navbar navbar-expand-md  navbar-toggleable-md navbar-dark bg-dark static-top">
+  <
   <div class="container">
     <a class="navbar-brand" href="#"><tt>join<span style="color: darkorange">squad</span>.gr</tt></a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+            data-target="#navCollapse" aria-controls="navCollapse" aria-expanded="false"
+            aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+
+    <div class="collapse navbar-collapse  justify-content-end" id="navCollapse">
+      <ul class="navbar-nav">
+
+
+        {% for entry in site.data.nav %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{entry.href}}"><i class="{{entry.fa}} mr-1 ml-2"></i>{{entry.text}}</a>
+        </li>
+
+        {% endfor %}
+
+      </ul>
+    </div>
+
 
   </div>
 </nav>
