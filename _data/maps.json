@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Chora",
+    "description": "The map is set in a large river valley located near Kabul, Afghanistan, consisting of mud brick compounds and large green fields surrounded by low walls. This map can be somewhat claustrophobic to play on. The mud brick compounds and walls cover the entire area, forcing vehicles to stick to the roads and pathways lest they become flipped or stuck on something.",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/squad_gamepedia/8/86/Chora_2.jpg?version=901fc71d9220cd53b5e3233cf8a3fb54",
+    "wiki": "https://squad.gamepedia.com/Chora"
+  },
+  {
+    "name": "Logar Valley",
+    "description": "The map is set in three rural communities inside a valley in Afghanistan, with tall hills setting them apart.",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/squad_gamepedia/9/9f/Logar_Valley.jpg?version=1ec7adb47f7d2f402308d5b592a922e3",
+    "wiki": "https://squad.gamepedia.com/Logar_Valley"
+  },
+  {
+    "name": "Operation First Light",
+    "description": "Operation First Light is set in an Eastern European map, with terrain covered in dense forests and fog. This map is mostly infantry based combat. The limited vehicles in play serve only to supply FOBs or provide limited fire support as the dense forests limit their effectiveness and allow them to be ambushed from any side. There are, however, a few places where a well positioned vehicle can slaughter Infantry that are not careful. The map is not so large as to necessitate the use of vehicles for transportation. The fighting consists mostly of close-quarters or mid-range firefights in the urban areas or in the forests.",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/squad_gamepedia/9/9b/Opfirstlight_5.jpg?version=35d4c130e725772796203e15fe9f9510",
+    "wiki": "https://squad.gamepedia.com/Operation_First_Light"
+  },
+  {
+    "name": "Belaya",
+    "description": "Belaya is set in a Winter landscape with many hills covered in dense forests, several village and factories spaced out across the map",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/squad_gamepedia/9/94/Belaya_1.png?version=b1827e99afe085159608d3b72c5f448e",
+    "wiki": "https://squad.gamepedia.com/Belaya"
+  },
+  {
+    "name": "Fool's Road",
+    "description": "Fool's Road is set in an Eastern European map, with large, expansive terrain covered in dense forests with buildings spaced out across the map",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/squad_gamepedia/b/b9/Fool%27s_Road_7.jpg?version=114da7d37c4cc8e1297c8a05768f6919",
+    "wiki": "https://squad.gamepedia.com/Fool%27s_Road"
+  },
+  {
+    "name": "Gorodok v1",
+    "description": "Gorodok is an Eastern European map, with large expansive terrain. It became available in Alpha v6 and is now later being updated in Alpha v9 as a 4k map",
+    "img": "https://d1u5p3l4wpay3k.cloudfront.net/squad_gamepedia/0/03/Alpha_v9_Gorodok_1.jpg?version=9e479b29c242ea766f7407f1f16a48fd",
+    "wiki": "https://squad.gamepedia.com/Gorodok"
+  }
+]
