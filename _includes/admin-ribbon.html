@@ -1,6 +1,6 @@
 <section class="testimonials text-center bg-dark text-light">
   <div class="container">
-    <h2 class="mb-5">Our Admins</h2>
+    <h2 class="mb-5">Our Admins / Ομάδα Διαχείρησης</h2>
     <div class="row">
 
       {% for entry in site.data.admins %}
@@ -8,11 +8,28 @@
         <div class="testimonial-item mx-auto mb-5 mb-lg-0">
           <img class="img-fluid rounded-circle mb-3" src="{{site.baseurl}}/static/img/admins/{{entry.name}}.png" alt="">
           <h5>{{entry.name}}</h5>
-          <!--<p class="font-weight-light mb-0">"This is fantastic! Thanks so much guys!"</p>-->
         </div>
       </div>
       {% endfor %}
 
     </div>
+
+
+    <div class="row mt-5">
+      <div class="col">
+        <p class="lead">
+          Οι Διαχειριστές έχουν μεγάλη εμπειρία στο Squad και άλλα multiplayer games
+        </p>
+        <p class="lead mt-2">Ο σκοπός τους είναι να κρατήσουν το παιχνίδι δίκαιο και ισορροπημένο</p>
+        <p class="lead mt-2">Μπορείτε να τους βρείτε στο Discord για οποιοδήποτε θέμα</p>
+      </div>
+      <div class="col">
+        <p class="lead">
+Our Admins have a wealth of experience in Squad and other multiplayer games
+        </p>
+        <p class="lead mt-2">Their goal is to keep the game fair and balanced</p>
+        <p class="lead mt-2">You can find them on our Discord server</p>
+      </div>
+
   </div>
 </section>
