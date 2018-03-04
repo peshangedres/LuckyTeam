@@ -2,6 +2,7 @@
 title: Squad GR
 tagline: Ο πρώτος Ελληνικός Server στο Squad
 email: your-email@example.com
+copyright: join<b>squad</b>.gr 2018. Με κάθε επιφύλαξη πνευματικών δικαιωμάτων / All rights Reserved
 description: >- # this means to ignore newlines until "baseurl:"
   Ο πρώτος Ελληνικός server για Squad
 baseurl: "/joinsquad-gr" # the subpath of your site, e.g. /blog
@@ -10,6 +11,12 @@ static: "/static"
 twitter_username: jekyllrb
 github_username:  hellenic-milsim
 
+
+# social channels
+github: https://github.com/HellenicMilsim/
+facebook: https://www.facebook.com/HellenicMilsimCommunity/
+youtube: https://www.youtube.com/channel/UCK2vtGqZ3KoEB3SLyY_rOKQ
+discord: https://discord.gg/CjQEAc4
 
 # Build settings
 markdown: kramdown
