@@ -5,8 +5,8 @@ email: your-email@example.com
 copyright: join<b>squad</b>.gr 2018. Με κάθε επιφύλαξη πνευματικών δικαιωμάτων / All rights Reserved
 description: >- # this means to ignore newlines until "baseurl:"
   Ο πρώτος Ελληνικός server για Squad
-baseurl: "/joinsquad-gr" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: # the subpath of your site, e.g. /blog
+url: "http://joinsquad.gr" # the base hostname & protocol for your site, e.g. http://example.com
 static: "/static"
 twitter_username: jekyllrb
 github_username:  hellenic-milsim
