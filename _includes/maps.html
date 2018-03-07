@@ -4,9 +4,9 @@
 
     <div class="row no-gutters">
       <div class="col-lg-6 {% cycle 'order-lg-2', '' %} text-white showcase-img" style="background-image: url('{{entry.img}}');"></div>
-      <div class="col-lg-6 {% cycle 'order-lg-1 my-auto', '' %} showcase-text">
+      <div class="col-lg-6 {% cycle 'order-lg-1', '' %} my-auto showcase-text">
         <h2>{{ entry.name }} </h2>
-        <p class="lead mb-0">{{ entry.description }}</p>
+        <p class="lead">{{ entry.description }}</p>
         <p>Wiki: <a href="{{ entry.wiki }}">Link</a></p>
       </div>
     </div>
