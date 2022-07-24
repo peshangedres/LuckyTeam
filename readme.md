@@ -1,4 +1,4 @@
-# JoinSquad.GR
+# LuckyTeam
 
 
 
