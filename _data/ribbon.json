@@ -2,34 +2,22 @@
   {
     "fa": "fas fa-user",
     "en": {
-      "title": "Active Admins",
+      "title": "Active staff",
       "text": "Our Admins are active and committed to upholding our Server Rules"
     },
-    "gr": {
-      "title": "Ενεργοί Διαχειριστές",
-      "text": "Οι Διαχειριστές μας είναι ενεργοί και τηρούν τους κανόνες του Server"
-    }
   },
   {
     "fa": "far fa-clock",
     "en": {
-      "title": "European Timezone",
+      "title": "kurdish timezon ",
       "text": "Our Server and most of our members are based in Europe"
     },
-    "gr": {
-      "title": "Ευρωπαικές Ώρες",
-      "text": "Τα Μέλη και οι Διαχειριστές μας βρίσκονται στην Ευρώπη"
-    }
   },
   {
     "fa": "fas fa-globe",
     "en": {
-      "title": "We Speak Greek",
+      "title": "ema ba kurdi qsa dakain ",
       "text": "For Gamers, from Gamers"
     },
-    "gr": {
-      "title": "Μιλάμε Ελληνικά",
-      "text": "Απο Έλληνες Gamers για Έλληνες Gamers"
-    }
   }
 ]
