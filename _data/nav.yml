@@ -7,6 +7,4 @@
 - text: "Admin Team"
   fa: "fas fa-users"
   href: "#admins"
-- text: "Maps"
-  fa: "far fa-map"
-  href: "#maps"
+
