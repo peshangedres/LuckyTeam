@@ -2,9 +2,9 @@
 title: luckyteam
 tagline: baxer ben 
 email: your-email@example.com
-copyright: 
+copyright: >- #har kasek aw sitea drust katawa tushi keshay syasi dabet  
 description: >- # this means to ignore newlines until "baseurl:"
-  #serverek tanha bo lucky team
+  #ba hiway kateki xosh 
 baseurl: # the subpath of your site, e.g. /blog
 static: "/static"
 twitter_username: jekyllrb
