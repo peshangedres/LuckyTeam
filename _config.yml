@@ -7,9 +7,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   #ba hiway kateki xosh 
 baseurl: # the subpath of your site, e.g. /blog
 static: "/static"
-twitter_username: jekyllrb
-github_username:  hellenic-milsim
-
 
 # social channels
 facebook: https://www.facebook.com/ibrahim.moshin.522
