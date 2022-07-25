@@ -1,6 +1,6 @@
 <section class="showcase bg-secondary text-light">
   <div class="container-fluid p-0"id= "rules">
-    {% for rule in site.data.rules %}
+   {% for rule in site.data.rules %}
 
     <div class="row no-gutters">
       <div class="col-lg-6 {% cycle 'order-lg-2', '' %} text-white showcase-img" style="background-image:url('{{site.baseurl}}/static/img/rules/{{rule.img}}');"></div>
