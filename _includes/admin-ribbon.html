@@ -14,25 +14,64 @@
 
     </div>
 
-
-    <!DOCTYPE html>
-<html>
-<body>
-
-<h2>HTML Forms</h2>
-
-<form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
-  <input type="submit" value="Submit">
-</form> 
-
-<p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
-
-</body>
-</html>
+<form action="SEND ADDRESS" id="ft-form" method="POST" accept-charset="UTF-8" enctype="multipart/form-data">
+  <fieldset>
+    <legend>Job</legend>
+    <label>
+      Application for *
+      <select name="Application for" required>
+        <option>Helper</option>
+        <option>Staff</option>
+      </select>
+    </label>
+  </fieldset>
+  <fieldset>
+    <legend>Personal data</legend>
+    <div class="two-cols">
+      <label>
+        discord name *
+        <input type="text" name="discord name" required>
+      </label>
+      </label>
+    </div>
+    <div class="two-cols">
+      </label>
+      <label>
+        Date of birth
+        <input type="date" name="Date of birth">
+      </label>
+    </div>
+    </label>
+    <div class="two-cols">
+      </label>
+      <label>
+        City
+        <input type="text" name="City">
+      </label>
+    </div>
+    <div class="two-cols">
+    </div>
+  </fieldset>
+  <fieldset>
+    <legend>Application documents</legend>
+    <input type="hidden" name="MAX_FILE_SIZE" value="10485760">
+    <div class="two-cols">
+      <label>
+        Application letter
+        <input type="file" name="Application letter" accept=".doc,.docx,.pdf">
+      </label>
+      <label>
+        Curriculum vitae
+        <input type="file" name="Curriculum vitae" accept=".doc,.docx,.pdf">
+      </label>
+    </div>
+    <p>Possible file types: DOC, PDF. Maximum file size: 10 MB.</p>
+  </fieldset>
+  <div class="btns">
+    <input type="text" name="_gotcha" value="" style="display:none;">
+    <input type="submit" value="Submit application">
+  </div>
+</form>
     
     
     
